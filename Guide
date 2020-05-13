@@ -1,0 +1,5 @@
+Untuk menambahkan Dependencies mysql Connector pada Intellij
+
+>> File -> Project Stucture (Ctrl+Alt+Shift+S) Intellij Idea
+>> Project Settings -> Modules -> Dependencies
+>> Klik icon+ , lalu pilih JARS or Directories setelah itu arahkan ke direktori lib dan cari .jar.
